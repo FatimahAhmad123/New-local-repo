@@ -2,3 +2,4 @@ Line 1 master
 Line 2 master
 Line 3 master
 Line 1 Feature1
+Line 2 Feature1
